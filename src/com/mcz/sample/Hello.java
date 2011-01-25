@@ -1,5 +1,8 @@
 package com.mcz.sample;
 
 public class Hello {
-	public void sampleMethod(){}
+	public void sampleMethod(){
+		
+		String a ="";
+	}
 }
